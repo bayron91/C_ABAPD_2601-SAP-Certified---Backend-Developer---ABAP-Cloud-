@@ -4,8 +4,8 @@ CLASS zcl_9864_copy DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+    INTERFACES if_oo_adt_classrun.
 
-    INTERFACES if_oo_adt_classrun .
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
